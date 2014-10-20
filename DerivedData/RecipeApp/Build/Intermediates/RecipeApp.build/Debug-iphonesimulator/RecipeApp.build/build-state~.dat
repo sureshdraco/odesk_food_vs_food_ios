@@ -1,0 +1,138 @@
+TRecipeApp
+v6
+r1
+cCheck dependencies
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.m
+r0
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.m
+r0
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.m
+r0
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.m
+r0
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.m
+r0
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.m
+r0
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies18b5b7f9c1f3b941^922400fac1f3b941^---0#1#1#--18"Check dependencies36"1D173D33-0F83-4E36-8CAF-4B80C543B125-
+
+CCompileAssetCatalog /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Images.xcassets
+r0
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/AboutViewController.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/Recipe.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeAppDelegate.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeDetailViewController.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableCell.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableViewController.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/main.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/en.lproj/InfoPlist.strings CustomTable/en.lproj/InfoPlist.strings
+r0
+
+CCpResource CustomTable/images/image\ (1).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (1).jpg
+r0
+
+CCpResource CustomTable/images/image\ (10).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (10).jpg
+r0
+
+CCpResource CustomTable/images/image\ (11).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (11).jpg
+r0
+
+CCpResource CustomTable/images/image\ (12).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (12).jpg
+r0
+
+CCpResource CustomTable/images/image\ (13).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (13).jpg
+r0
+
+CCpResource CustomTable/images/image\ (14).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (14).jpg
+r0
+
+CCpResource CustomTable/images/image\ (15).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (15).jpg
+r0
+
+CCpResource CustomTable/images/image\ (16).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (16).jpg
+r0
+
+CCpResource CustomTable/images/image\ (2).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (2).jpg
+r0
+
+CCpResource CustomTable/images/image\ (3).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (3).jpg
+r0
+
+CCpResource CustomTable/images/image\ (4).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (4).jpg
+r0
+
+CCpResource CustomTable/images/image\ (5).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (5).jpg
+r0
+
+CCpResource CustomTable/images/image\ (6).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (6).jpg
+r0
+
+CCpResource CustomTable/images/image\ (7).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (7).jpg
+r0
+
+CCpResource CustomTable/images/image\ (8).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (8).jpg
+r0
+
+CCpResource CustomTable/images/image\ (9).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (9).jpg
+r0
+
+CCpResource CustomTable/images/photo-frame.png DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame.png
+r0
+
+CCpResource CustomTable/images/photo-frame@2x.png DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame@2x.png
+r0
+
+CCpResource CustomTable/resources/about.html DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.html
+r0
+
+CCpResource CustomTable/resources/about.jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.jpg
+r0
+
+CGenerateDSYMFile /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app.dSYM /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp
+r0
+
+CLd /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp normal i386
+r0
+
+CProcessInfoPlistFile /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/Info.plist /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeApp-Info.plist
+r0
+
+CProcessPCH /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch.pch CustomTable/RecipeApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Index/PrecompiledHeaders/RecipeApp-Prefix-cmscnhtfzljeztgychtgtzqzqspx_ast/RecipeApp-Prefix.pch.pch CustomTable/RecipeApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app
+r0
+

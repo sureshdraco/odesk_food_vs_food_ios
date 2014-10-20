@@ -1,0 +1,1223 @@
+TRecipeApp
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch.pch CustomTable/RecipeApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/AboutViewController.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/Recipe.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeAppDelegate.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableViewController.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/main.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableCell.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeDetailViewController.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp normal i386
+cCpResource CustomTable/images/photo-frame@2x.png DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame@2x.png
+cCpResource CustomTable/images/image\ (3).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (3).jpg
+cCpResource CustomTable/images/image\ (1).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (1).jpg
+cCpResource CustomTable/images/image\ (14).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (14).jpg
+cCpResource CustomTable/images/image\ (13).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (13).jpg
+cCpResource CustomTable/images/image\ (16).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (16).jpg
+cCpResource CustomTable/images/image\ (15).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (15).jpg
+cCpResource CustomTable/images/image\ (8).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (8).jpg
+cCpResource CustomTable/images/image\ (7).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (7).jpg
+cCpResource CustomTable/images/image\ (11).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (11).jpg
+cCopyStringsFile /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/en.lproj/InfoPlist.strings CustomTable/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Base.lproj/Main.storyboard
+cCpResource CustomTable/images/image\ (5).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (5).jpg
+cCpResource CustomTable/images/image\ (4).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (4).jpg
+cCpResource CustomTable/images/image\ (10).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (10).jpg
+cCpResource CustomTable/resources/about.jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.jpg
+cCpResource CustomTable/images/image\ (12).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (12).jpg
+cCpResource CustomTable/images/image\ (2).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (2).jpg
+cCpResource CustomTable/resources/about.html DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.html
+cCpResource CustomTable/images/image\ (6).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (6).jpg
+cCpResource CustomTable/images/photo-frame.png DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame.png
+cCpResource CustomTable/images/image\ (9).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (9).jpg
+cCompileAssetCatalog /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Images.xcassets
+cProcessInfoPlistFile /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/Info.plist /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeApp-Info.plist
+cGenerateDSYMFile /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app.dSYM /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp
+cTouch /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005347C54A0000000000000198
+t1397212490
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533437C300000000000003B4
+t1395931075
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533437D3000000000000019E
+t1395931091
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000533437D8000000000058E0E0
+t1395931096
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000533437D800000000005B82F0
+t1395931096
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005347C2740000000000446820
+t1397211764
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000533437D900000000003599D0
+t1395931097
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000533437DA00000000002FC3B0
+t1395931098
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000533437DA000000000004B000
+t1395931098
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533437DC000000000088D8C0
+t1395931100
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000533437DF0000000000037680
+t1395931103
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000533437E0000000000048F720
+t1395931104
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000533437E0000000000013FD70
+t1395931104
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533437E70000000001F1DE10
+t1395931111
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005334380000000000002BC360
+t1395931136
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005334380E0000000000002338
+t1395931150
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000053343810000000000008D370
+t1395931152
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000533438100000000000392E20
+t1395931152
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000537DF7D700000000000141F0
+t1400764375
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000533438110000000000014A80
+t1395931153
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000533438110000000000033BA0
+t1395931153
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000053343811000000000001CFB0
+t1395931153
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000053343811000000000001B2B0
+t1395931153
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005334381100000000000C9570
+t1395931153
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000533438110000000000063280
+t1395931153
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000533438110000000000008880
+t1395931153
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000533438110000000000015080
+t1395931153
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005334381100000000000230F0
+t1395931153
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000053343811000000000000E380
+t1395931153
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000533438110000000000089380
+t1395931153
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000533438110000000000017320
+t1395931153
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000533438110000000000039CD0
+t1395931153
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000053343811000000000000B0B0
+t1395931153
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000533438110000000000167E80
+t1395931153
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005334381100000000000106A0
+t1395931153
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000053343811000000000001CE40
+t1395931153
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005334381100000000000740C0
+t1395931153
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000053343811000000000006CA60
+t1395931153
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000053343811000000000001BAD0
+t1395931153
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000533438110000000000084A20
+t1395931153
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005334381C0000000000000ADC
+t1395931164
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005347C281000000000000514C
+t1397211777
+s20812
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.h
+c000000005443643900000000000000E1
+t1413702713
+s225
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.m
+c00000000544364390000000000000364
+t1413702713
+s868
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Base.lproj/Main.storyboard
+c0000000052BAE94B0000000000004B71
+t1387981131
+s19313
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Images.xcassets
+c0000000052A2DEC00000000000000088
+t1386405568
+s136
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.h
+c000000005443643900000000000001AC
+t1413702713
+s428
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.m
+c00000000544364390000000000000078
+t1413702713
+s120
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeApp-Info.plist
+c0000000052A2DEC000000000000004C8
+t1386405568
+s1224
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeApp-Prefix.pch
+c0000000052A2DEC00000000000000158
+t1386405568
+s344
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.h
+c000000005443643900000000000000EC
+t1413702713
+s236
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.m
+c000000005443643900000000000007B4
+t1413702713
+s1972
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.h
+c000000005443643900000000000001BC
+t1413702713
+s444
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.m
+c00000000544364390000000000000417
+t1413702713
+s1047
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.h
+c00000000544364390000000000000159
+t1413702713
+s345
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.m
+c0000000054436439000000000000022A
+t1413702713
+s554
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.h
+c000000005443643900000000000000B8
+t1413702713
+s184
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.m
+c00000000544364370000000000002402
+t1413702711
+s9218
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/en.lproj/InfoPlist.strings
+c0000000052A2DEC0000000000000002D
+t1386405568
+s45
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (1).jpg
+c0000000054426E6C0000000000015388
+t1413639788
+s86920
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (10).jpg
+c0000000054426EBB000000000000A48D
+t1413639867
+s42125
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (11).jpg
+c0000000054426EC400000000000082B9
+t1413639876
+s33465
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (12).jpg
+c0000000054426EE50000000000094FAF
+t1413639909
+s610223
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (13).jpg
+c0000000054426EFD00000000000B9E21
+t1413639933
+s761377
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (14).jpg
+c0000000054426F1F000000000000C899
+t1413639967
+s51353
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (15).jpg
+c0000000054426F3300000000000418E2
+t1413639987
+s268514
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (16).jpg
+c0000000054426F48000000000000FA91
+t1413640008
+s64145
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (2).jpg
+c0000000054426E82000000000000A31A
+t1413639810
+s41754
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (3).jpg
+c0000000054426E8800000000000758AB
+t1413639816
+s481451
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (4).jpg
+c0000000054426E890000000000006FB5
+t1413639817
+s28597
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (5).jpg
+c0000000054426E8F000000000001435B
+t1413639823
+s82779
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (6).jpg
+c0000000054426E930000000000008C03
+t1413639827
+s35843
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (7).jpg
+c0000000054426E9B0000000000057F20
+t1413639835
+s360224
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (8).jpg
+c0000000054426EA50000000000047838
+t1413639845
+s292920
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image (9).jpg
+c0000000054426EB2000000000000F655
+t1413639858
+s63061
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/photo-frame.png
+c000000004EA72E8000000000000026B7
+t1319579264
+s9911
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/photo-frame@2x.png
+c000000004EA014C20000000000002A90
+t1319113922
+s10896
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/main.m
+c0000000052B7F46E0000000000000157
+t1387787374
+s343
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/resources/about.html
+c0000000054435EEE000000000000010E
+t1413701358
+s270
+
+N/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/resources/about.jpg
+c000000004FE73F930000000000006A87
+t1340555155
+s27271
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch.pch
+t1413712520
+s116208
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/AboutViewController.o
+t1413712524
+s45368
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/Recipe.o
+t1413712524
+s9476
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeApp.LinkFileList
+c0000000054438A7A00000000000004D0
+t1413712506
+s1232
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeAppDelegate.o
+t1413712524
+s62636
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeDetailViewController.o
+t1413712525
+s54464
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableCell.o
+t1413712525
+s47896
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableViewController.o
+t1413712525
+s83932
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/main.o
+t1413712525
+s3552
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/assetcatalog_dependencies.txt
+t1413712584
+s454
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/assetcatalog_generated_info.plist
+t1413712584
+s525
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app
+t1413712619
+s986
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app.dSYM
+t1413712620
+s102
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/Base.lproj/Main.storyboardc
+t1413712618
+s272
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/Info.plist
+t1413712619
+s1018
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/PkgInfo
+t1413712619
+s8
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp
+t1413712528
+s57736
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.html
+t1413712530
+s270
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.jpg
+t1413712529
+s27271
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/en.lproj/InfoPlist.strings
+t1413712529
+s42
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (1).jpg
+t1413712529
+s86920
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (10).jpg
+t1413712529
+s42125
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (11).jpg
+t1413712529
+s33465
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (12).jpg
+t1413712530
+s610223
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (13).jpg
+t1413712529
+s761377
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (14).jpg
+t1413712529
+s51353
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (15).jpg
+t1413712529
+s268514
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (16).jpg
+t1413712529
+s64145
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (2).jpg
+t1413712530
+s41754
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (3).jpg
+t1413712529
+s481451
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (4).jpg
+t1413712529
+s28597
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (5).jpg
+t1413712529
+s82779
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (6).jpg
+t1413712530
+s35843
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (7).jpg
+t1413712529
+s360224
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (8).jpg
+t1413712529
+s292920
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (9).jpg
+t1413712530
+s63061
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame.png
+t1413712530
+s9911
+
+N/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame@2x.png
+t1413712529
+s10896
+
+N/usr/lib/libSystem.B.dylib
+c00000000537DF789000000000000E6D0
+t1400764297
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000053333E160000000000012A00
+t1395867158
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000053333DE9000000000002E320
+t1395867113
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000053333DFE0000000000021860
+t1395867134
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000053BBFA98000000000001B610
+t1404828312
+s112144
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000053333E1500000000000BD920
+t1395867157
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000053333E16000000000000A120
+t1395867158
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053BBFA98000000000001D550
+t1404828312
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000053333E140000000000014EE0
+t1395867156
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000053333E190000000000010380
+t1395867161
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000053333E19000000000000C4C0
+t1395867161
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000053333E1600000000000357A0
+t1395867158
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000053333E16000000000000C070
+t1395867158
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000053333DFE0000000000168D00
+t1395867134
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000537DF7CD0000000000010630
+t1400764365
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053BBFA98000000000001DF10
+t1404828312
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000053333DFE0000000000075B00
+t1395867134
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005422BEE9000000000007CCE0
+t1411563241
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000053333DFE00000000000766C0
+t1395867134
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000053333E170000000000044DC0
+t1395867159
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005422BEE90000000000021FA0
+t1411563241
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053333E17000000000002D920
+t1395867159
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000053333E17000000000001E570
+t1395867159
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053BBFA98000000000000CC70
+t1404828312
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000053333E0D000000000000C3F0
+t1395867149
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000053333E1700000000000199F0
+t1395867159
+s104944
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.m
+r0
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.m
+r0
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.m
+r0
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.m
+r0
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.m
+r0
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.m
+r0
+
+CBuild AST from /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa5491d80b6f4b941^024a1f80b6f4b941^---0#1#1#--18"Check dependencies36"0FB3680A-287E-4B0F-B530-DAA26E9DA5DD-
+
+CCompileAssetCatalog /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Images.xcassets
+s435405330.663483
+e435405385.142036
+r1
+xCompileAssetCatalog
+x/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app
+x/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/LaunchImage-700-568h@2x.png
+o/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/Assets.car
+o/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CompileAssetCatalog DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app CustomTable/Images.xcassets120"CompileAssetCatalog DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app CustomTable/Images.xcassets0bf0a912c2f3b941^3a7a2449c2f3b941^-482"/* com.apple.actool.compilation-results *//Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/LaunchImage-700-568h@2x.png/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/Assets.car/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@76"file:///Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Images.xcassets/0000000000000000^1256"CompileAssetCatalog DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app CustomTable/Images.xcassets    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Images.xcassets36"C9B667D2-FA06-4B47-8ECD-CFE2B4931907-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/AboutViewController.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435405320.769931
+e435405324.475258
+r1
+xCompileC
+xDerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/AboutViewController.o
+x/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.m
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.m248"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/AboutViewController.o CustomTable/AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd13bc508c2f3b941^c1ab790cc2f3b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.m0000000000000000^4065"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/AboutViewController.o CustomTable/AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/essa/Downloads/RecipeAppSearchBar    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-generated-files.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-own-target-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-all-target-headers.hmap -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-project-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources/i386 -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources -F/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator -include /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch -MMD -MT dependencies -MF /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/AboutViewController.d --serialize-diagnostics /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/AboutViewController.dia -c /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/AboutViewController.m -o /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/AboutViewController.o36"FB451C01-AE75-4729-89BC-0329C5B1CFDD-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/Recipe.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435405324.475727
+e435405324.564830
+r1
+xCompileC
+xDerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/Recipe.o
+x/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.m
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.m222"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/Recipe.o CustomTable/Recipe.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera7eb790cc2f3b941^93e1900cc2f3b941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.m0000000000000000^3987"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/Recipe.o CustomTable/Recipe.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/essa/Downloads/RecipeAppSearchBar    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-generated-files.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-own-target-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-all-target-headers.hmap -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-project-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources/i386 -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources -F/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator -include /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch -MMD -MT dependencies -MF /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/Recipe.d --serialize-diagnostics /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/Recipe.dia -c /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.m -o /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/Recipe.o36"C78C7B9D-22E0-4B3D-8CD4-71140EFE3A3B-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeAppDelegate.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435405324.476304
+e435405325.039146
+r1
+xCompileC
+xDerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeAppDelegate.o
+x/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.m
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.m244"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeAppDelegate.o CustomTable/RecipeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler24097a0cc2f3b941^97e3310dc2f3b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.m0000000000000000^4053"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeAppDelegate.o CustomTable/RecipeAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/essa/Downloads/RecipeAppSearchBar    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-generated-files.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-own-target-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-all-target-headers.hmap -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-project-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources/i386 -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources -F/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator -include /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch -MMD -MT dependencies -MF /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeAppDelegate.d --serialize-diagnostics /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeAppDelegate.dia -c /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.m -o /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeAppDelegate.o36"808F6518-AB2E-4CF0-A05B-E2FE3DCE1B87-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeDetailViewController.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435405325.605714
+e435405325.763144
+r1
+xCompileC
+xDerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeDetailViewController.o
+x/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.m
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.h
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.m262"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeDetailViewController.o CustomTable/RecipeDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler05329b0dc2f3b941^9163c30dc2f3b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.m0000000000000000^4107"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeDetailViewController.o CustomTable/RecipeDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/essa/Downloads/RecipeAppSearchBar    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-generated-files.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-own-target-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-all-target-headers.hmap -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-project-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources/i386 -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources -F/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator -include /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch -MMD -MT dependencies -MF /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeDetailViewController.d --serialize-diagnostics /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeDetailViewController.dia -c /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.m -o /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeDetailViewController.o36"CA0A2A7E-E74E-479A-A089-D985C5134EE9-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableCell.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435405325.293314
+e435405325.604660
+r1
+xCompileC
+xDerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableCell.o
+x/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.m
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.m240"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableCell.o CustomTable/RecipeTableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbd364b0dc2f3b941^844b9b0dc2f3b941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.m0000000000000000^4041"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableCell.o CustomTable/RecipeTableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/essa/Downloads/RecipeAppSearchBar    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-generated-files.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-own-target-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-all-target-headers.hmap -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-project-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources/i386 -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources -F/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator -include /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch -MMD -MT dependencies -MF /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableCell.d --serialize-diagnostics /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableCell.dia -c /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.m -o /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableCell.o36"09505D78-852A-41E0-89FA-474BA9EA046E-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableViewController.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435405324.565170
+e435405325.292344
+r1
+xCompileC
+xDerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableViewController.o
+x/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.m
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.h
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableCell.h
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeDetailViewController.h
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Recipe.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.m260"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableViewController.o CustomTable/RecipeTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler36cc900cc2f3b941^4c504b0dc2f3b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.m0000000000000000^4101"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableViewController.o CustomTable/RecipeTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/essa/Downloads/RecipeAppSearchBar    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-generated-files.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-own-target-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-all-target-headers.hmap -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-project-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources/i386 -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources -F/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator -include /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch -MMD -MT dependencies -MF /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableViewController.d --serialize-diagnostics /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableViewController.dia -c /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeTableViewController.m -o /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableViewController.o36"1491F320-96C7-4696-9D02-CBA55731CB1B-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/main.o /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435405325.040104
+e435405325.612515
+r1
+xCompileC
+xDerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/main.o
+x/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/main.m
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/main.m218"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/main.o CustomTable/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler06650a0dc2f3b941^64e89c0dc2f3b941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/essa/Downloads/RecipeAppSearchBar/CustomTable/main.m0000000000000000^3975"CompileC DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/main.o CustomTable/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/essa/Downloads/RecipeAppSearchBar    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-generated-files.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-own-target-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-all-target-headers.hmap -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-project-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources/i386 -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources -F/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator -include /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch -MMD -MT dependencies -MF /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/main.dia -c /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/main.m -o /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/main.o36"800601A7-7799-43F0-8DC4-3AB919BF776C-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCompileStoryboard /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Base.lproj/Main.storyboard
+s435405329.481649
+e435405418.966241
+r1
+xCompileStoryboard
+x/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Base.lproj/Main.storyboard
+onwi_state: registration failed (1000000)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"CompileStoryboard CustomTable/Base.lproj/Main.storyboard56"CompileStoryboard CustomTable/Base.lproj/Main.storyboarda2637b11c2f3b941^4b5cf76ac2f3b941^-41"nwi_state: registration failed (1000000)-0#0#1#-19%DVTDocumentLocation2@86"file:///Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Base.lproj/Main.storyboard0000000000000000^877"CompileStoryboard CustomTable/Base.lproj/Main.storyboard    cd /Users/essa/Downloads/RecipeAppSearchBar    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/Base.lproj/Main.storyboardc /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/Base.lproj/Main.storyboard36"48992E5C-0837-4ACA-B676-3767933E96B2-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCopyStringsFile /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/en.lproj/InfoPlist.strings CustomTable/en.lproj/InfoPlist.strings
+s435405329.443221
+e435405329.481420
+r1
+xCopyStringsFile
+x/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/en.lproj/InfoPlist.strings
+xCustomTable/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy CustomTable/en.lproj/InfoPlist.strings154"CopyStringsFile DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/en.lproj/InfoPlist.strings CustomTable/en.lproj/InfoPlist.strings4c8c7111c2f3b941^936e7b11c2f3b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/essa/Downloads/RecipeAppSearchBar/CustomTable/en.lproj/InfoPlist.strings0000000000000000^653"CopyStringsFile DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/en.lproj/InfoPlist.strings CustomTable/en.lproj/InfoPlist.strings    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/en.lproj -- CustomTable/en.lproj/InfoPlist.strings36"2AAC147F-2D1A-4F83-89C7-85124BF55B1D-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (1).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (1).jpg
+s435405329.206720
+e435405329.254975
+r1
+xCpResource
+xCustomTable/images/image (1).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (1).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (1).jpg132"CpResource CustomTable/images/image\ (1).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (1).jpg04fe3411c2f3b941^39624111c2f3b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(1).jpg003484dfdcffdf42^677"CpResource CustomTable/images/image\ (1).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (1).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (1).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"2C7D6225-EA94-4907-8C79-B47D3795889E-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (10).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (10).jpg
+s435405329.712726
+e435405329.773570
+r1
+xCpResource
+xCustomTable/images/image (10).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (10).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (10).jpg134"CpResource CustomTable/images/image\ (10).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (10).jpg268cb611c2f3b941^6809c611c2f3b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(10).jpg003484dfdcffdf42^680"CpResource CustomTable/images/image\ (10).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (10).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (10).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"F0D7B364-BD53-45F2-A409-90027F2E5E71-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (11).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (11).jpg
+s435405329.332059
+e435405329.442671
+r1
+xCpResource
+xCustomTable/images/image (11).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (11).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (11).jpg134"CpResource CustomTable/images/image\ (11).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (11).jpg12125511c2f3b941^185a7111c2f3b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(11).jpg003484dfdcffdf42^680"CpResource CustomTable/images/image\ (11).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (11).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (11).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"08617464-80F0-4030-BDDE-5A5FDA13A976-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (12).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (12).jpg
+s435405329.882906
+e435405330.438490
+r1
+xCpResource
+xCustomTable/images/image (12).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (12).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (12).jpg134"CpResource CustomTable/images/image\ (12).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (12).jpg8f1be211c2f3b941^ae487012c2f3b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(12).jpg003484dfdcffdf42^680"CpResource CustomTable/images/image\ (12).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (12).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (12).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"DEFC0454-F1E0-4EFD-A85B-0FADF8CDD7DD-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (13).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (13).jpg
+s435405329.257549
+e435405329.295664
+r1
+xCpResource
+xCustomTable/images/image (13).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (13).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (13).jpg134"CpResource CustomTable/images/image\ (13).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (13).jpg08004211c2f3b941^abb24b11c2f3b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(13).jpg003484dfdcffdf42^680"CpResource CustomTable/images/image\ (13).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (13).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (13).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"732894B1-7D30-4FD4-8DE4-4458C59EF93A-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (14).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (14).jpg
+s435405329.255883
+e435405329.273104
+r1
+xCpResource
+xCustomTable/images/image (14).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (14).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (14).jpg134"CpResource CustomTable/images/image\ (14).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (14).jpg81974111c2f3b941^e5ec4511c2f3b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(14).jpg003484dfdcffdf42^680"CpResource CustomTable/images/image\ (14).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (14).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (14).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"8A119D25-A256-4CDF-9211-28CE6258C691-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (15).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (15).jpg
+s435405329.292897
+e435405329.330835
+r1
+xCpResource
+xCustomTable/images/image (15).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (15).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (15).jpg134"CpResource CustomTable/images/image\ (15).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (15).jpga60d4b11c2f3b941^76c15411c2f3b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(15).jpg003484dfdcffdf42^680"CpResource CustomTable/images/image\ (15).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (15).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (15).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"38628881-9B3D-45C3-BE4C-27D53D540E61-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (16).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (16).jpg
+s435405329.273556
+e435405329.292424
+r1
+xCpResource
+xCustomTable/images/image (16).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (16).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (16).jpg134"CpResource CustomTable/images/image\ (16).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (16).jpgb51a4611c2f3b941^47e94a11c2f3b941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(16).jpg003484dfdcffdf42^680"CpResource CustomTable/images/image\ (16).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (16).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (16).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"920F5E14-629C-4487-AFFF-748417DB7505-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (2).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (2).jpg
+s435405330.439137
+e435405330.494801
+r1
+xCpResource
+xCustomTable/images/image (2).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (2).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (2).jpg132"CpResource CustomTable/images/image\ (2).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (2).jpg77837012c2f3b941^efab7e12c2f3b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(2).jpg003484dfdcffdf42^677"CpResource CustomTable/images/image\ (2).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (2).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (2).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"7CD741CE-2F1A-4504-A56D-42DFD1FC438C-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (3).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (3).jpg
+s435405329.043441
+e435405329.257126
+r1
+xCpResource
+xCustomTable/images/image (3).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (3).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (3).jpg132"CpResource CustomTable/images/image\ (3).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (3).jpge02e0b11c2f3b941^23d74111c2f3b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(3).jpg003484dfdcffdf42^677"CpResource CustomTable/images/image\ (3).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (3).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (3).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"05469F3B-E07C-45F6-9C9C-A8BD0AB2B103-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (4).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (4).jpg
+s435405329.562672
+e435405329.712060
+r1
+xCpResource
+xCustomTable/images/image (4).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (4).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (4).jpg132"CpResource CustomTable/images/image\ (4).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (4).jpgfb1f9011c2f3b941^f2b6b611c2f3b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(4).jpg003484dfdcffdf42^677"CpResource CustomTable/images/image\ (4).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (4).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (4).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"5C753939-3C50-4604-9402-275025AE29AD-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (5).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (5).jpg
+s435405329.485061
+e435405329.562461
+r1
+xCpResource
+xCustomTable/images/image (5).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (5).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (5).jpg132"CpResource CustomTable/images/image\ (5).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (5).jpg5b407c11c2f3b941^f297b611c2f3b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(5).jpg003484dfdcffdf42^677"CpResource CustomTable/images/image\ (5).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (5).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (5).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"8368737D-D290-4567-8F7E-94C1577EB4AF-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (6).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (6).jpg
+s435405330.540490
+e435405330.569705
+r1
+xCpResource
+xCustomTable/images/image (6).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (6).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (6).jpg132"CpResource CustomTable/images/image\ (6).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (6).jpg2a708a12c2f3b941^10eb9112c2f3b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(6).jpg003484dfdcffdf42^677"CpResource CustomTable/images/image\ (6).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (6).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (6).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"01F753B1-4D53-47A5-B874-FBF9431BF599-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (7).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (7).jpg
+s435405329.331632
+e435405329.484537
+r1
+xCpResource
+xCustomTable/images/image (7).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (7).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (7).jpg132"CpResource CustomTable/images/image\ (7).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (7).jpg1efc5411c2f3b941^fb947b11c2f3b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(7).jpg003484dfdcffdf42^677"CpResource CustomTable/images/image\ (7).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (7).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (7).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"8DE44A15-1D3D-4921-A663-3B99DDCD94AD-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (8).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (8).jpg
+s435405329.296042
+e435405329.331237
+r1
+xCpResource
+xCustomTable/images/image (8).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (8).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (8).jpg132"CpResource CustomTable/images/image\ (8).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (8).jpgcfd84b11c2f3b941^53cd5411c2f3b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(8).jpg003484dfdcffdf42^677"CpResource CustomTable/images/image\ (8).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (8).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (8).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"66EE8E54-87A7-4377-BB49-35EFA24A02CF-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/image\ (9).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (9).jpg
+s435405330.634563
+e435405330.662575
+r1
+xCpResource
+xCustomTable/images/image (9).jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (9).jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image (9).jpg132"CpResource CustomTable/images/image\ (9).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (9).jpg7f83a212c2f3b941^5aa0a912c2f3b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image%20(9).jpg003484dfdcffdf42^677"CpResource CustomTable/images/image\ (9).jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/image\ (9).jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/image\ (9).jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"AC7F0B27-9312-4C74-8D9E-D84E73255770-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/photo-frame.png DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame.png
+s435405330.570673
+e435405330.634063
+r1
+xCpResource
+xCustomTable/images/photo-frame.png
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame.png134"CpResource CustomTable/images/photo-frame.png DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame.pngc72d9212c2f3b941^9753a212c2f3b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame.png003484dfdcffdf42^680"CpResource CustomTable/images/photo-frame.png DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame.png    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/photo-frame.png /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"64A936D2-7CED-469F-BF7F-1CF73DB82312-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/images/photo-frame@2x.png DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame@2x.png
+s435405329.043007
+e435405329.206241
+r1
+xCpResource
+xCustomTable/images/photo-frame@2x.png
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame@2x.png140"CpResource CustomTable/images/photo-frame@2x.png DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame@2x.png37170b11c2f3b941^20d13411c2f3b941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame@2x.png003484dfdcffdf42^689"CpResource CustomTable/images/photo-frame@2x.png DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/photo-frame@2x.png    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/images/photo-frame@2x.png /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"B612C127-123E-4E81-B46A-FBB603ABEF18-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/resources/about.html DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.html
+s435405330.495280
+e435405330.539718
+r1
+xCpResource
+xCustomTable/resources/about.html
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.html
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.html127"CpResource CustomTable/resources/about.html DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.html40db7e12c2f3b941^9f3a8a12c2f3b941^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.html003484dfdcffdf42^671"CpResource CustomTable/resources/about.html DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.html    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/resources/about.html /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"1482579A-4A2B-4045-8007-CA727B14C4C5-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CCpResource CustomTable/resources/about.jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.jpg
+s435405329.774151
+e435405329.882238
+r1
+xCpResource
+xCustomTable/resources/about.jpg
+xDerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.jpg125"CpResource CustomTable/resources/about.jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.jpgff3fc611c2f3b941^f3e5e111c2f3b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.jpg003484dfdcffdf42^668"CpResource CustomTable/resources/about.jpg DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/about.jpg    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/resources/about.jpg /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app36"AB52DA94-5E68-4BB8-9450-2D2974E48EBF-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CGenerateDSYMFile /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app.dSYM /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp
+s435405419.200247
+e435405421.170695
+r1
+xGenerateDSYMFile
+x/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app.dSYM
+x/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Generate /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app.dSYM177"GenerateDSYMFile DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app.dSYM DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp0b5f336bc2f3b941^85b32b6dc2f3b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app.dSYM003484dfdcffdf42^767"GenerateDSYMFile DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app.dSYM DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp -o /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app.dSYM36"16297FFE-8BC3-4108-9CB7-0380CEB9FD11-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CLd /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp normal i386
+s435405325.764417
+e435405329.041725
+r1
+xLd
+x/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp
+xnormal
+xi386
+d/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeApp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/AboutViewController.o
+d/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/Recipe.o
+d/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeAppDelegate.o
+d/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableViewController.o
+d/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/main.o
+d/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeTableCell.o
+d/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeDetailViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp97"Ld DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp normal i386f4c4c30dc2f3b941^36af0a11c2f3b941^---0#0#1#--1553"Ld DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp normal i386    cd /Users/essa/Downloads/RecipeAppSearchBar    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator -F/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator -filelist /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/Objects-normal/i386/RecipeApp_dependency_info.dat -o /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/RecipeApp36"35952E18-DCDA-4332-B376-1C437F84401A-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CProcessInfoPlistFile /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/Info.plist /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeApp-Info.plist
+s435405419.004018
+e435405419.199193
+r1
+xProcessInfoPlistFile
+x/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/Info.plist
+x/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Process /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeApp-Info.plist137"ProcessInfoPlistFile DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/Info.plist CustomTable/RecipeApp-Info.plistc423016bc2f3b941^2504336bc2f3b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeApp-Info.plist0000000000000000^1002"ProcessInfoPlistFile DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/Info.plist CustomTable/RecipeApp-Info.plist    cd /Users/essa/Downloads/RecipeAppSearchBar    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeApp-Info.plist -genpkginfo /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/assetcatalog_generated_info.plist -o /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app/Info.plist36"DBA48C50-2D46-4C1E-BA57-C77EF482726F-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CProcessPCH /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch.pch CustomTable/RecipeApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435405306.221347
+e435405320.768969
+r1
+xProcessPCH
+x/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch.pch
+xCustomTable/RecipeApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile CustomTable/RecipeApp-Prefix.pch243"ProcessPCH DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch.pch CustomTable/RecipeApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler49d738fac1f3b941^8fc43309c2f3b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeApp-Prefix.pch0000000000000000^3866"ProcessPCH DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch.pch CustomTable/RecipeApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/essa/Downloads/RecipeAppSearchBar    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-generated-files.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-own-target-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-all-target-headers.hmap -iquote /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/RecipeApp-project-headers.hmap -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources/i386 -I/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/RecipeApp.build/Debug-iphonesimulator/RecipeApp.build/DerivedSources -F/Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch.dia -MMD -MT dependencies -MF /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch.d -c /Users/essa/Downloads/RecipeAppSearchBar/CustomTable/RecipeApp-Prefix.pch -o /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Intermediates/PrecompiledHeaders/RecipeApp-Prefix-aofcvnrkxybkixeusnazfjpvehvb/RecipeApp-Prefix.pch.pch36"2F69D781-E8C7-4774-81EA-FAB63DE410CF-
+b76808937-9302-4440-9905-2EFE59A46ADE
+
+CProcessPCH /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Index/PrecompiledHeaders/RecipeApp-Prefix-cmscnhtfzljeztgychtgtzqzqspx_ast/RecipeApp-Prefix.pch.pch CustomTable/RecipeApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/essa/Downloads/RecipeAppSearchBar/DerivedData/RecipeApp/Build/Products/Debug-iphonesimulator/RecipeApp.app
+r0
+

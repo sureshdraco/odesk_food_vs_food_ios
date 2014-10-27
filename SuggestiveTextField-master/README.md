@@ -15,5 +15,5 @@ SuggestiveTextField *textField = [SuggestiveTextField alloc] initWithFrame:CGRec
 textField.shouldHideOnSelection = NO; //default is YES
 [textField setPopoverSize:CGSizeMake(100,100)];
 ```
-![screenshot](https://github.com/tetek/SuggestiveTextField/blob/master/screenshot.png?raw=true "Screenshot")
+![screenshot](screenshot.png?raw=true "Screenshot")
 
